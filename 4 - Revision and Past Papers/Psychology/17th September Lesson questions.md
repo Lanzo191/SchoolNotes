@@ -1,0 +1,5 @@
+Describe how the social area provides a situational explanation of behaviour (3)
+- The social area in psychology assumes our behaviour is determined by social interactions and the social context. The social area provides a explanation of behaviour because it investigates how the thoughts, feelings and behaviours of individuals are influenced by the surrounding environment, an example of this would be Piliavin et al. the experiment shows how "helping behaviour" differs whilst in a public space like the NYC Subway. 
+
+Describe the difference between an individual explanation for behaviour and a situational explanation for behaviour (4 Marks)
+- An individual explanation for behaviour refers to an internal reasoning  such as being more susceptible to anger due to genetics, where as a situational explanation would say that our characteristics are determined by external factors such as upbringing and the social context

@@ -1,0 +1,1 @@
+Sieber and Stanley (1988) used the term social sensitivity to describe studies where there are potential social consequences for the participants or the group of people represented by the research.

@@ -1,0 +1,6 @@
+#Biology #Cambridge #Cells #Education #F170 #HumanBiology
+
+[[TDL]]
+ell cycle checkpoints are control mechanisms in the eukaryotic cell cycle which ensure its proper progression. Each checkpoint serves as a potential termination point along the cell cycle, during which the conditions of the cell are assessed, with progression through the various phases of the cell cycle occurring only when favorable conditions are met. There are many checkpoints in the cell cycle, but the three major ones are: the G1 checkpoint, also known as the Start or restriction checkpoint or Major Checkpoint; the G2/M checkpoint; and the metaphase-to-anaphase transition, also known as the spindle checkpoint. Progression through these checkpoints is largely determined by the activation of cyclin-dependent kinases by regulatory protein subunits called cyclins, different forms of which are produced at each stages
+
+[[Mitosis]] checkpoints, also known as the spindle checkpoints, ensure that all sister chromatids are properly attached to the spindle fibers before the cell divides. This prevents errors in chromosome separation, which can lead to cell division problems and contribute to conditions like cancer.

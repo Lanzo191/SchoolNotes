@@ -1,0 +1,1 @@
+Chess but to move each piece you have to answer a flashcard each piece means different difficulty of flashcard 

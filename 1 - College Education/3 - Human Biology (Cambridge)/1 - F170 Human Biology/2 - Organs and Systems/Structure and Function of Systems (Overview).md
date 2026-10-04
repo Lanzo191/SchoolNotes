@@ -1,0 +1,11 @@
+
+
+| Structure                                                            | System                     | Function                                                                                                                                                |
+| -------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Heart, [[Arteries]], [[Capillaries]], [[Veins]]                      | Circulatory                | (K) Pumps blood through [[Circulatory System]]<br><br>(D) Transports Oxygenated Blood away from the heart<br><br>(Q)Carries Deoxygenated Blood To Heart |
+| Lymph Nodes, Lymphatic Vessels                                       | Lymph System               | (H) Stores and Filters lymph producing lymphocytes                                                                                                      |
+| [[Skeletal Muscle]], Bones, Joints, Cartilage                        | Musculoskeletal            | (N) Provides Structure, Protection, Mineral Storage                                                                                                     |
+| Hypothalamus, [[Pancreas]], Receptor Cells, Effectors                | Endocrine                  | (T) Regulates things like Temp/ Water balance<br><br>(E) Monitors Blood temp  and regulates Blood Glucose                                               |
+| Kidneys, Sweat Glands                                                | Urinary / Excretory System | (A) Filters Waste from blood and produces Urine<br><br>(O) Removes Urea, Salts, Water through Skin                                                      |
+| [[Lungs]], [[Alveoli]], [[Trachea]], [[Diaphragm]]                   | Respiratory System         | (C) Allows diffusion of gases between blood and lungs<br><br>(M) Expels Co2 from Body                                                                   |
+| Buccal Cavity, [[Oesophagus]], [[Stomach]], Intestines, Gall Bladder | Digestive System           | (G)Absorbs Nutrients into blood <br><br>(S) Stores and Releases Bile<br>                                                                                |

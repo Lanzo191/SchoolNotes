@@ -1,0 +1,2 @@
+## Overview - 
+- Charles Murray argues that there is a class of dependent, work shy criminals who live on welfare benefits called the **Underclass**. He suggests that they are poorly socialised because of single motherhood and because of irresponsible dependency culture. AKA  Murray says deviant subcultures aren't due to economic reasons but rather a lack of a father figure 

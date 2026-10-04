@@ -1,0 +1,13 @@
+## Clinical Diagnostic Evaluation Matrix
+
+| Diagnostic Modality | Diagnostic Accuracy | Patient Comfort & Tolerance | Turnaround Speed | Procedural Risk | Primary Clinical Indication |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Tissue Biopsy** | **Extremely High** (Definitive histological gold standard) | **Low** (Invasive; local anaesthesia required; post-procedure soreness) | **Slow** (Histopathology and immunohistochemistry: 3-7 days) | **Moderate** (Risk of localized haemorrhage, infection, or structural trauma) | Definitive staging and histological characterisation of suspected malignant neoplasms. |
+| **Blood Analysis (Venipuncture)** | **High** (Highly quantifiable and standardized biomarker measurement) | **Moderate** (Mild localized discomfort during needle insertion) | **Rapid to Moderate** (Point-of-care: minutes; comprehensive panels: 24-48 hours) | **Very Low** (Minor venipuncture bruising; transient vasovagal syncope) | Systemic screening of haematology, renal function, liver enzymes, and metabolic markers. |
+| **Cognitive Assessment** | **Moderate to High** (Dependent on patient attention, anxiety, and effort) | **High** (Entirely non-invasive psychometric and behavioural testing) | **Immediate** (Standardized scoring completed during session) | **Negligible** (No physical risk; possible cognitive fatigue or performance anxiety) | Longitudinal baseline tracking for neurodegenerative diseases (dementia), concussions, or ADHD. |
+| **Mammography** | **High** (Proven sensitivity, though reduced in dense fibroglandular tissue) | **Low to Moderate** (Significant physical breast compression between plates) | **Rapid** (Image acquisition: 15 mins; radiologist reporting: 1-2 days) | **Low** (Very low-dose targeted ionizing radiation exposure) | Population-level screening and early detection of asymptomatic breast carcinomas. |
+| **Urinalysis** | **Moderate to High** (Rapid screening efficacy; susceptible to contamination) | **High** (Non-invasive, painless mid-stream specimen collection) | **Immediate to Moderate** (Reagent dipstick: instantaneous; microbiological culture: 24-48 hours) | **Zero** (Completely risk-free sample provision) | First-line screening for urinary tract infections, renal dysfunction, glycosuria, and proteinuria. |
+
+## Clinical Trade-offs in Medical Diagnostics
+- **Frontline Screening Modalities** (Urinalysis, blood tests, cognitive screens): Prioritise high patient comfort, rapid turnaround, and low procedural risk to filter wide populations for anomalies.
+- **Definitive Diagnostic Modalities** (Biopsy, specialized imaging): Involve invasive intervention and longer turnaround to provide conclusive histopathological certainty necessary for treatment planning.
